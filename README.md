@@ -1,4 +1,4 @@
-##💳 -  Card Fraud Detection ##
+##  💳 - Card Fraud Detection ##
 A machine learning-based web application that detects fraudulent credit card transactions using a Random Forest Classifier. This project includes model training, scaling, and deployment using both Flask API and Streamlit UI.
 
 
